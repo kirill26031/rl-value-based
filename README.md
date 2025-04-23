@@ -5,6 +5,7 @@ I had to use environment wrapper FlattenDictWrapper,
 since FrankaKitchen-v1's observation space is dict based (unsopprted directly in Stable Baselines 3).
 
 For second task I chose SAC algorithm.
+# SAC
 [SAC notebook](explore sac.ipynb)
 With replay buffer initialization with successfull runs, we can see progress.
 
