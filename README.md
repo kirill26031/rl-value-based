@@ -6,7 +6,7 @@ since FrankaKitchen-v1's observation space is dict based (unsopprted directly in
 
 For second task I chose SAC algorithm.
 [SAC notebook](explore sac.ipynb)
-
+With replay buffer initialization with successfull runs, we can see progress.
 
 For third task I tried 2 approaches (DDPG, DQN with discrete action scape).
 # DDPG
